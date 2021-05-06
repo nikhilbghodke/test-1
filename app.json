@@ -26,10 +26,6 @@
     "REACT_APP_VIDEO_AVATAR": {
       "description": "Takes value None|Initial|Pebble"
     }
-  },
+  }
 
-  "scripts" : {
-    "start": "craco start",
-    "build": "craco build"
-   }
 }
